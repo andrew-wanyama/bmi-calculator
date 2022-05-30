@@ -1,8 +1,7 @@
-# bmi_calculator.py
-# BMI Calculator program obtains user's name, 
+# The BMI Calculator program obtains user's name, 
 # prompts user to choose the preferred units of measurement, 
-# calculates user's Body Mass Index (BMI) and determines their BMI category.
-# It also advises the user on how to maintain a healthy BMI.
+# calculates user's Body Mass Index (BMI) to determine their BMI category,
+# and advises the user on how to maintain a healthy weight.
 
 # prompt for name and welcome user
 name = input("Please enter your name: ")
